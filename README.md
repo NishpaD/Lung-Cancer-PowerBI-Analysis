@@ -7,6 +7,6 @@ This Power BI project provides a comprehensive analysis of lung cancer risk fact
 
  * Interactive Filters: Analyze lung cancer risk by demographic factors (age, gender) and lifestyle habits (smoking, diet, alcohol use).
  * Data Insights: Compare the impact of smoking vs. passive smoking and assess the role of genetic predisposition in lung cancer prediction.
- * Health Goals Alignment: Insights are aligned with Oman’s health objectives for lung cancer prevention.
+
 
 Skills Demonstrated: Power BI, Data Preprocessing, Data Visualization, Exploratory Data Analysis
